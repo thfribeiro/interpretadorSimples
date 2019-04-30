@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1556580178 source:c:\users\thiago\google drive\faculdade\3º ano\compiladores\testes\main.cpp
+	<cstddef>
+	<iostream>
+	<string.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<ctype.h>
+
+1555713967 c:\users\thiago\google drive\faculdade\3º ano\compiladores\testes\teste.h
+	<stdio.h>
+	<stdlib.h>
+	"teste.c"
+
+1555713891 c:\users\thiago\google drive\faculdade\3º ano\compiladores\testes\teste.c
+	"teste.h"
+
+1555713891 source:c:\users\thiago\google drive\faculdade\3º ano\compiladores\testes\teste.c
+	"teste.h"
+
